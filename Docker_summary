@@ -1,2 +1,3 @@
 Docker is used to containerize applications.
-Kubernetes is an orchestration platform for conainers.
+Kubernetes is an orchestration platform for containers.
+I am using Gitlab
